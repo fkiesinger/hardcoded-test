@@ -1,0 +1,6 @@
+framework module Pods_hardCodedUITests {
+  umbrella header "Pods-hardCodedUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
